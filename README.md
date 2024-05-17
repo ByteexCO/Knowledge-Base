@@ -4,12 +4,6 @@
 
 Welcome to the Knowledge Base for Byteex Shopify Developers! This repository is designed to provide a comprehensive resource for developers working with Shopify, aiming to improve development efficiency and reduce the number of errors. Whether you're a beginner or an experienced developer, you'll find valuable information, reusable components, and practical tips to help you with your Shopify projects.
 
-## Objectives
-
-1. **Improve Efficiency**: Minimize the time developers spend solving unexpected problems, allowing more time for effective coding.
-2. **Reduce Errors**: Decrease the number of developer errors and the need for manual intervention by providing clear guidelines and best practices.
-3. **Knowledge Sharing**: Create a centralized knowledge base with solutions to common issues, reusable components, and practical advice.
-
 ## Contents
 
 - **[Shopify Basics](2_Shopify_Basics/Getting_Started.md)**: Essential knowledge for developers new to Shopify, including setup instructions and key concepts.
