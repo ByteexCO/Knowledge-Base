@@ -16,10 +16,10 @@ We welcome contributions from all developers. If you have a solution to a common
 
 1. **Clone the repository**: Clone this repository to your PC.
 2. **Create a Branch**: Create a new branch for your contribution.
-3. **Go to created Branch**: 
+3. **Go to created Branch**: Switch to the branch you just created.
 4. **Make Changes**: Add your content or make improvements to the existing documentation.
 5. **Submit a Pull Request**: Submit a pull request with a clear description of your changes.
-6. **Wait the approval**:
+6. **Wait the approval**: Wait for the review and approval your pull request.
 
 ## Contact
 
