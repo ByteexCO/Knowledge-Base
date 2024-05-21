@@ -8,7 +8,7 @@ Welcome to the Knowledge Base for Byteex Shopify Developers! This repository is 
 
 - **[Shopify Basics](2_Shopify_Basics/Getting_Started.md)**: Essential knowledge for developers new to Shopify, including setup instructions and key concepts.
 - **[Known Limitations and Case Studies](3_Known_Limitations_and_Case_Studies/Limitations_And_Cases.md)**: Details on Shopify's limitations and solutions to common but complex problems.
-- **[Reusable Features and Components](4_Reusable_Components/Component_List.md)**: A collection of complex, reusable components for Shopify themes.
+- **[Reusable Features and Components](4_Reusable_Components/Component_and_Feature_List.md)**: A collection of complex, reusable components for Shopify themes.
 
 ## How to Contribute
 
