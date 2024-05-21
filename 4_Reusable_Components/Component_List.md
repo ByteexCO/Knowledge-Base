@@ -26,9 +26,9 @@ This section contains a list of reusable components that can be utilized across 
 
 ### Features
 
-1. [Inventory Management](/backend/delivery/Inventory_Management.md) (404)
-2. [Order Processing](/backend/delivery/Order_Processing.md) (404)
-3. [Automated Discount Application](/backend/delivery/Automated_Discount_Application.md) (404)
+1. [Inventory Management](/backend/features/Inventory_Management.md) (404)
+2. [Order Processing](/backend/features/Order_Processing.md) (404)
+3. [Automated Discount Application](/backend/features/Automated_Discount_Application.md) (404)
 
 ### Services
 
@@ -41,6 +41,6 @@ This section contains a list of reusable components that can be utilized across 
 
 ### How to Use
 
-Each link above will take you to a detailed document that describes the component, its usage, and provides sample code to help you integrate it into your Shopify projects.
+Each link above will take you to a detailed document that describes the component, feature or service, its usage, and provides sample code to help you integrate it into your Shopify projects.
 
 Powered by Byteex
