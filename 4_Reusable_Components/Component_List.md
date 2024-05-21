@@ -6,7 +6,7 @@ This section contains a list of reusable components that can be utilized across 
 
 ## Frontend 
 
-### React Components
+### React Features and Components
 
 1. [Color Picker](frontend/react/Color_Picker.md)
 2. [Change Language](frontend/react/Change_Language.md) (404)
@@ -14,7 +14,7 @@ This section contains a list of reusable components that can be utilized across 
 4. [Product Carousel](frontend/react/Product_Carousel.md) (404)
 5. [Dynamic Search Bar](frontend/react/Dynamic_Search_Bar.md) (404)
 
-### Vue Components
+### Vue Features and Components
 
 1. [Color Picker](frontend/vue/Color_Picker.md) (404)
 2. [Change Language](frontend/vue/Change_Language.md) (404)
@@ -24,7 +24,7 @@ This section contains a list of reusable components that can be utilized across 
 
 ## Backend
 
-### Delivery
+### Features
 
 1. [Inventory Management](/backend/delivery/Inventory_Management.md) (404)
 2. [Order Processing](/backend/delivery/Order_Processing.md) (404)
