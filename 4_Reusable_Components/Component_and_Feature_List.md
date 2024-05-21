@@ -1,4 +1,4 @@
-# Reusable Components
+# Reusable Features and Components
 
 ## Overview
 
