@@ -1,4 +1,4 @@
-# API Rate Limits
+# (TEMPLATE) API Rate Limits
 
 ## Overview
 
