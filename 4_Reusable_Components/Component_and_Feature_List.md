@@ -22,6 +22,14 @@ This section contains a list of reusable components that can be utilized across 
 4. [Product Carousel](frontend/vue/Product_Carousel.md) (404)
 5. [Dynamic Search Bar](frontend/vue/Dynamic_Search_Bar.md) (404)
 
+### Liquid Features and Components
+
+1. [Color Picker](frontend/liquid/Color_Picker.md) (404)
+2. [Change Language](frontend/liquid/Change_Language.md) (404)
+3. [Custom Slider](frontend/liquid/Custom_Slider.md) (404)
+4. [Product Carousel](frontend/liquid/Product_Carousel.md) (404)
+5. [Dynamic Search Bar](frontend/liquid/Dynamic_Search_Bar.md) (404)
+
 ## Backend
 
 ### Features
