@@ -1,4 +1,4 @@
-# Getting Started
+# (TEMPLATE) Getting Started
 
 ## Introduction
 
