@@ -1,4 +1,4 @@
-# Color Picker Component
+# (TEMPLATE) Color Picker Component
 
 ## Overview
 
