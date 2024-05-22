@@ -7,9 +7,9 @@ This section of the knowledge base details the known limitations of Shopify and 
 ## Table of Contents
 
 ### Known Limitations
-1. [API Rate Limits](known_limitations/API_Rate_Limits.md) 
+1. [API Rate Limits](known_limitations/Template_API_Rate_Limits.md) 
 2. [Checkout Customization Limitations](known_limitations/Checkout_Customization.md) (404)
-3. [Discount limitations in different collections](known_limitations/Discount_Collection_Limit.md) 
+3. [Discount limitations in different collections](known_limitations/Template_Discount_Collection_Limit.md) 
 4. [Theme File Size Limitations](known_limitations/Theme_File_Size.md) (404)
 5. [Multi-Currency and Multi-Language Support](known_limitations/Multi_Currency_Language.md) (404)
 
