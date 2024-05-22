@@ -8,7 +8,7 @@ This section contains a list of reusable components that can be utilized across 
 
 ### React Features and Components
 
-1. [Color Picker](frontend/react/Color_Picker.md)
+1. [Color Picker](frontend/react/Template_Color_Picker.md)
 2. [Change Language](frontend/react/Change_Language.md) (404)
 3. [Custom Slider](frontend/react/Custom_Slider.md) (404)
 4. [Product Carousel](frontend/react/Product_Carousel.md) (404)
