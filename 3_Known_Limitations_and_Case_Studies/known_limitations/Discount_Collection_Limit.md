@@ -1,4 +1,4 @@
-# Discount Limitations in Different Collections
+# (TEMPLATE) Discount Limitations in Different Collections
 
 ## Overview
 
